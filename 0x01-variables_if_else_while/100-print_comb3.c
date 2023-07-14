@@ -9,6 +9,7 @@
 
 int main(void)
 
+
 {
 
 	int d, p;
@@ -28,7 +29,7 @@ int main(void)
 	putchar(' ');
 	}
 	}
-        }
+	}
 	putchar('\n');
 	return (0);
 
