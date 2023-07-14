@@ -2,10 +2,11 @@
 
 /**
  * main - prints the alphabet randomly
- * return: Always (Success)
+ * Return: Always (Success)
  */
 
 int main(void)
+
 
 {
 
