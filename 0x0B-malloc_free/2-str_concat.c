@@ -9,7 +9,7 @@
   *
   * Return: the two strings concatenated
   */
-char *str_concat(char*s1, char *s2)
+char *str_concat(char *s1, char *s2)
 {
 	int i = 0, j = 0, k = 0, l = 0;
 	char *s;
@@ -23,7 +23,7 @@ char *str_concat(char*s1, char *s2)
 	while (s1[i])
 		i++;
 
-	while(s2[j])
+	while (s2[j])
 		j++;
 
 	l = i + j;
