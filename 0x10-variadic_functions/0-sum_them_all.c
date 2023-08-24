@@ -6,8 +6,7 @@
   * @n: The number of parameters passed to the function
   * @...: variable number to be summed
   *
-  * Return: 0
-  *	Otherwise - sum of all parameters
+  * Return: sum of parameters
   */
 
 int sum_them_all(const unsigned int n, ...)
